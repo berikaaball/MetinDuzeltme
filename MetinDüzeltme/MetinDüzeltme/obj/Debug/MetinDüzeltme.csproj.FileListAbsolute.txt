@@ -1,0 +1,10 @@
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\bin\Debug\MetinDüzeltme.exe.config
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\bin\Debug\MetinDüzeltme.exe
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\bin\Debug\MetinDüzeltme.pdb
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.csproj.AssemblyReference.cache
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.Form1.resources
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.Properties.Resources.resources
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.csproj.GenerateResource.cache
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.csproj.CoreCompileInputs.cache
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.exe
+C:\Users\BERIKA\Desktop\dersler\hry\Calismalarim\MetinDüzeltme\MetinDüzeltme\obj\Debug\MetinDüzeltme.pdb

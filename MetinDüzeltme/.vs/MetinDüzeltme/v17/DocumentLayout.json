@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|c:\\users\\berika\\desktop\\dersler\\hry\\calismalarim\\metind\u00FCzeltme\\metind\u00FCzeltme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|solutionrelative:metind\u00FCzeltme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|c:\\users\\berika\\desktop\\dersler\\hry\\calismalarim\\metind\u00FCzeltme\\metind\u00FCzeltme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|solutionrelative:metind\u00FCzeltme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|c:\\users\\berika\\desktop\\dersler\\hry\\calismalarim\\metind\u00FCzeltme\\metind\u00FCzeltme\\vtislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D878A8-7B26-4293-ABB5-5D19D46AF6E3}|MetinD\u00FCzeltme\\MetinD\u00FCzeltme.csproj|solutionrelative:metind\u00FCzeltme\\vtislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VtIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\VtIslemleri.cs",
+              "RelativeDocumentMoniker": "MetinD\u00FCzeltme\\VtIslemleri.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\VtIslemleri.cs",
+              "RelativeToolTip": "MetinD\u00FCzeltme\\VtIslemleri.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:36:15.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\Form1.cs",
+              "RelativeDocumentMoniker": "MetinD\u00FCzeltme\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\Form1.cs",
+              "RelativeToolTip": "MetinD\u00FCzeltme\\Form1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:00:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\Form1.cs",
+              "RelativeDocumentMoniker": "MetinD\u00FCzeltme\\Form1.cs",
+              "ToolTip": "C:\\Users\\BERIKA\\Desktop\\dersler\\hry\\Calismalarim\\MetinD\u00FCzeltme\\MetinD\u00FCzeltme\\Form1.cs [Design]",
+              "RelativeToolTip": "MetinD\u00FCzeltme\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:51:17.723Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
